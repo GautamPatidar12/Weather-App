@@ -1,3 +1,13 @@
+# Weather-App
+
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: GAUTAM PATIDAR
+*INTERN ID*: CT08NXL
+*DOMAIN*: REACT JS
+*DURATION*: 4 WEEKS
+*MENTOR*: NEELA SANTHOSH KUMAR
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
